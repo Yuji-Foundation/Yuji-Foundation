@@ -43,12 +43,12 @@
 
 <br>
 
-📫 𝖢𝗈𝗇𝗍𝖺𝖼𝗍 𝖬𝖾
+### 📫 Contact Me
 
-𝖸𝗈𝗎 𝖼𝖺𝗇 𝖼𝗈𝗇𝗇𝖾𝖼𝗍 𝗐𝗂𝗍𝗁 𝗆𝖾 𝗁𝖾𝗋𝖾:
+You can connect with me here:
 
-· https://img.shields.io/badge/𝖶𝖾𝗂𝗅𝖺𝗂_𝖲𝗎𝗉𝗉𝗈𝗋𝗍-𝖳𝖾𝗅𝖾𝗀𝗋𝖺𝗆-blue?style=for-the-badge&logo=telegram
-· https://img.shields.io/badge/𝖶𝖾𝗂𝗅𝖺𝗂_𝖲𝗎𝗉𝗉𝗈𝗋𝗍-𝖦𝗆𝖺𝗂𝗅-red?style=for-the-badge&logo=gmail
+- [![telegram](https://img.shields.io/badge/Weilai_Support-Telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/Weilai_Support)
+- [![gmail](https://img.shields.io/badge/Weilai_Support-Gmail-red?style=for-the-badge&logo=gmail)](mailto:weilai.app.pm@gmail.com)
 
 <br>
 
